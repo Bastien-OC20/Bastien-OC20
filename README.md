@@ -5,8 +5,10 @@
 - ⚙️ Le front-end est ma partie préferée dans le developement 
 - #️⃣ Prochaine étape : RNCP 6 et Les solutions AWS...  Cloud Power ☁️
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=Bastien-OC20&show_icons=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien-OC20)
+![My github stats](https://github-readme-stats.vercel.app/api?username=Bastien-OC20&theme=gotham&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Bastien-OC20&theme=gotham)
+
+
 
 <hr>
 <p align="center">
