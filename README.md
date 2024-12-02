@@ -17,4 +17,4 @@
 ### 📫 Me contacter
 
 - Email: bastien.rapuzzi@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/sébastien-r/))
+- [LinkedIn](https://www.linkedin.com/in/sébastien-r/)
