@@ -1,5 +1,5 @@
 <hr>
-###👋 Bonjour, je suis Sébastien !
+### 👋 Bonjour, je suis Sébastien !
 
 - 📖 Développeur web | front-end
 - 🎓 RNCP 5 (Bac +2)
