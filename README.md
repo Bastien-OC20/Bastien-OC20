@@ -15,5 +15,5 @@
 - Bases de données: MySQL, MongoDB
 
 ### 📫 Me contacter
-Email: bastien.rapuzzi@gmail.com
-![LinkedIn](https://www.linkedin.com/in/sébastien-r/))
+- Email: bastien.rapuzzi@gmail.com
+- ![LinkedIn](https://www.linkedin.com/in/sébastien-r/))
